@@ -10,6 +10,7 @@ packages = [{include = "rabbitmq_example"}]
 python = "^3.11.5"
 pika = "^1.3.2"
 pika-stubs = "^0.1.3"
+loguru = "^0.7.2"
 
 
 [build-system]
