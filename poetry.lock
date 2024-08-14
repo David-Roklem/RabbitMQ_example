@@ -33,5 +33,5 @@ dev = ["flake8 (>=3.8.3,<3.9.0)", "mypy (>=0.780,<1.0)"]
 
 [metadata]
 lock-version = "2.0"
-python-versions = "^3.10"
-content-hash = "3fa7aaf2e02a43c1c27b69444c2b69f9493489c6a1f02445410db811601650eb"
+python-versions = "^3.11.5"
+content-hash = "6dbc44a9d1d935abd7770e37f488480815a23171edbd129b4012759584b29c7e"
